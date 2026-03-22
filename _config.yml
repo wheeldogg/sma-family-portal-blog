@@ -1,0 +1,13 @@
+title: SMA Family Portal
+description: >-
+  A resource and blog for SMA (Spinal Muscular Atrophy) families in Ireland —
+  sharing news, research updates, and lived experience from the SMA community.
+baseurl: "/sma-family-portal-blog"
+url: "https://wheeldogg.github.io"
+
+theme: minima
+
+permalink: /:year/:month/:day/:title/
+
+header_pages:
+  - about.md
