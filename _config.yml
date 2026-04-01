@@ -11,3 +11,4 @@ permalink: /:year/:month/:day/:title/
 
 header_pages:
   - about.md
+  - congress-report-budapest-2026.md
