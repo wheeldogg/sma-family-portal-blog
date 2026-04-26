@@ -1,22 +1,26 @@
 ---
 layout: post
 title: "What I Learned at the 5th International SMA Congress in Budapest"
-date: 2026-03-22
+date: 2026-04-27
 author: Shane Whelan
 tags: [SMA, congress, Budapest, dual-therapy, Zolgensma, risdiplam, advocacy, Ireland]
 excerpt: >
-  Last week I was in Budapest for the 5th International Scientific Congress on SMA.
+  From March 11–14, 2026, I was in Budapest for the 5th International Scientific Congress on SMA.
   I went as a dad — Theo's dad. Here's what I learned about combination therapy,
   emerging science, and what Irish SMA families can do next.
 ---
 
-*By Shane Whelan — March 2026*
+*By Shane Whelan — April 27, 2026*
 
 ---
 
-Last week I was in Budapest for the 5th International Scientific Congress on SMA, organised by SMA Europe. I went as a dad — Theo's dad, specifically. He's five, he has SMA Type 1, and he received Zolgensma as a baby. I also went as someone who builds things for a living (I'm a software engineer), which means I tend to look at systems — how they work, where they break, and what it would take to fix them. What I saw in Budapest gave me a lot to think about on all of those fronts.
+![Budapest at sunrise during the SMA congress]({{ '/assets/images/congress-budapest-2026/budapest-sunrise.jpg' | relative_url }})
+
+From March 11–14, 2026, I was in Budapest for the 5th International Scientific Congress on SMA, organised by SMA Europe. I went as a dad. My son has SMA Type 1 and received Zolgensma as a baby. I also went as someone who builds things for a living (I'm a software engineer), which means I tend to look at systems — how they work, where they break, and what it would take to fix them. What I saw in Budapest gave me a lot to think about on all of those fronts.
 
 This post is my attempt to share the key takeaways with other Irish SMA families. It's not a medical paper and it's not a formal conference report. It's what I learned, what surprised me, and what I think we can do about it.
+
+![Paediatric SMA treatment strategies discussed at the congress]({{ '/assets/images/congress-budapest-2026/pediatric-treatment-strategies.jpg' | relative_url }})
 
 ## The Big Picture: Dual Therapy Is Happening — Just Not Here
 
@@ -44,6 +48,8 @@ Several key studies were presented and discussed at the congress. Here's what st
 
 And risdiplam is now on the **WHO Essential Medicines List** — one of the most broadly endorsed treatments in the world. Restricting access to a WHO essential medicine from children who've already had gene therapy is increasingly difficult to defend.
 
+![Key themes and inspiration from the congress]({{ '/assets/images/congress-budapest-2026/inspiration-slide.jpg' | relative_url }})
+
 ## What I Saw and Heard in Budapest
 
 Beyond the data, the congress was full of moments that will stay with me.
@@ -68,15 +74,23 @@ Two areas of emerging research caught my attention.
 
 ### Metabolomics and SMA
 
+![Congress themes pointing toward broader future options for families]({{ '/assets/images/congress-budapest-2026/inspiration-slide.jpg' | relative_url }})
+
 New research is connecting SMA to glucose and lipid metabolism — suggesting the disease affects more than just motor neurons. It reaches into whole-body metabolic function. This could explain the fatigue and energy issues that so many SMA patients experience daily, and might eventually lead to new biomarkers for monitoring treatment response and even metabolic interventions alongside existing treatments.
 
 ### Apitegromab — A Potential Fourth Treatment
+
+![Experimental motor neuron replacement and repair concepts discussed at the congress]({{ '/assets/images/congress-budapest-2026/motor-neuron-replacement-slide.jpg' | relative_url }})
 
 Scholar Rock presented data on apitegromab, a selective anti-myostatin antibody. This is a muscle-targeted therapy that works through a completely different mechanism than existing SMN-enhancing treatments like Zolgensma, risdiplam, or nusinersen. The Phase 3 SAPPHIRE trial met its primary endpoint in October 2024, a US FDA filing is under review, and European filing is underway. If approved, it could be added on top of any existing treatment to provide additional muscle-level benefit.
 
 ### Fatigue Research
 
+![SMA EFFORT fatigue research presented at the congress]({{ '/assets/images/congress-budapest-2026/sma-effort-fatigue.jpg' | relative_url }})
+
 The SMA Effort study and research into proximal predominant fatigue are examining the lived experience of SMA beyond standard motor function scores. Many SMA patients experience significant fatigue that isn't captured by clinical assessments like CHOP-INTEND or HFMSE. This research validates what families already know: our children get tired in ways the numbers don't always reflect.
+
+![Practical respiratory care questions discussed during the congress]({{ '/assets/images/congress-budapest-2026/cough-assist-ambu.jpg' | relative_url }})
 
 ## What Can Families Do?
 
@@ -109,12 +123,14 @@ The science is moving fast. New treatments, new evidence, new access decisions �
 
 I came back from Budapest tired, slightly overwhelmed, and cautiously hopeful. The evidence for combination therapy is strong and growing. The clinical practice in other European countries has moved ahead. Ireland needs to catch up, and I believe we have the tools and the community to make it happen.
 
-Theo is five. He's funny, stubborn, obsessed with Bluey, and has opinions about everything. He deserves every chance at the best possible outcome, and so does every other child with SMA in Ireland. The science says dual therapy works. The rest of Europe is acting on it. It's time we did too.
+My son deserves every chance at the best possible outcome, and so does every other child with SMA in Ireland. The science says dual therapy works. The rest of Europe is acting on it. It's time we did too.
 
 If you want to talk about any of this, or if you're navigating the same questions with your own family, please reach out. I'm happy to share what I've learned.
 
 ---
 
-*Shane Whelan is a software engineer and father of Theo (SMA Type 1). He attended the 5th International Scientific Congress on SMA in Budapest in March 2026 as a member of SMA Ireland.*
+*Shane Whelan is a software engineer and father of a child with SMA Type 1. He attended the 5th International Scientific Congress on SMA in Budapest in March 2026 as a member of SMA Ireland.*
+
+![Budapest at sunset after the congress sessions]({{ '/assets/images/congress-budapest-2026/chain-bridge-sunset.jpg' | relative_url }})
 
 *Disclaimer: This post reflects personal experience and publicly available research. It is not medical advice. Always consult your child's clinical team before making treatment decisions.*
