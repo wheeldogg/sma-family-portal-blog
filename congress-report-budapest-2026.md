@@ -145,7 +145,7 @@ The day before the main congress sessions was arrival and orientation time in Bu
 
 Wednesday was an advocacy-focused start to the congress. The morning was particularly useful for connection-building and informal networking with people from SMA Europe, SMA UK, Italy, and other organisations, as well as conversations around treatment access and generic availability.
 
-Two sessions stood out. One was about play as physiotherapy and how children can be supported to engage physically through enjoyable activities rather than only formal exercises. The other was the Italian session on emergency practices and family training, including the kind of practical approach shown in SAPRE's ["My Kid's Got Wheelz"](https://www.fsma.pl/wp-content/uploads/2017/06/invitation_mf4r_2017-ENGLISH.pdf) programme. Overall, Wednesday was a very good start to the conference because it grounded the week in lived experience, practical care, and European advocacy relationships.
+Two sessions stood out. One was about play as physiotherapy and how children can be supported to engage physically through enjoyable activities rather than only formal exercises. The other was the Italian session on emergency practices and family training, drawing on the kind of practical approach used in European family-training events such as ["My Kid's Got Wheelz"](https://www.fsma.pl/wp-content/uploads/2017/06/invitation_mf4r_2017-ENGLISH.pdf) (a Polish SMA Federation invitation document) and related work coming out of Italian centres such as SAPRE (Servizio di Abilitazione Precoce) at Fondazione IRCCS Ca' Granda Ospedale Maggiore Policlinico in Milan. Overall, Wednesday was a very good start to the conference because it grounded the week in lived experience, practical care, and European advocacy relationships.
 
 {% assign day_2026_03_11 = "2026-03-11-143907.jpg,2026-03-11-151951.jpg,2026-03-11-163218.jpg,2026-03-11-163220.jpg,2026-03-11-164120.jpg,2026-03-11-170232.jpg,2026-03-11-171545.jpg" | split: "," %}
 <div class="conference-report-gallery">
@@ -196,11 +196,11 @@ Dual therapy was not the whole focus of the SMA Europe congress, but it was one 
 
 The following data points were presented and discussed at the congress. I have not independently verified all of these against source papers — they should be checked before being cited externally:
 
-- **RESPOND trial** (Biogen, published in *Journal of Clinical Investigation*, Sept 2025): 95% of children who received nusinersen after Zolgensma showed motor improvements. NfL levels (a biomarker for neuronal injury) dropped 70–78%, confirming ongoing biological benefit.
-- **Stanford presymptomatic cohort** (MDA 2025): All 8 infants who received Zolgensma within 2 months of birth — the best possible scenario — eventually required additional therapy. All improved after receiving it.
-- **US multicenter case series** (MDA 2026): 19 patients across 6 centres received risdiplam after Zolgensma. All 14 assessed for motor function improved.
+- **RESPOND trial** (Biogen, published in *Journal of Clinical Investigation*, Sept 2025): Among children with 2 SMN2 copies who received nusinersen after Zolgensma, 95% showed motor improvements on HINE-2 or CHOP-INTEND, and 52% of non-sitters gained independent sitting. NfL levels (a biomarker for neuronal injury) dropped by around 79% in plasma and 82% in CSF by day 302, confirming ongoing biological benefit.
+- **Stanford presymptomatic case series** (MDA 2025, Bassell-Hawkins et al.): 8 infants with SMA type 1 identified through newborn screening received Zolgensma within the first 2 months of life (mean ~3.75 weeks). Three received risdiplam as bridging therapy prior to gene therapy infusion, and the authors concluded that some presymptomatic patients may still benefit from additional DMTs to optimise motor outcomes.
+- **US multicenter case series** (Patel et al., *BMC Neurology* / MDA 2026): 20 children received risdiplam after Zolgensma, most commonly because of plateau or inadequate response (75%). Of those reassessed by CHOP-INTEND or HFMSE, 12 of 13 (92%) showed stability or improvement, with no serious adverse events observed post-risdiplam.
 - **Systematic review** (Bemanalizadeh et al., *European Journal of Pediatrics*, 2025): 19 published studies and 6 ongoing trials. No additive toxicity signals in any combination.
-- **Risdiplam is now on the WHO Essential Medicines List** — making it one of the most broadly endorsed treatments in the world.
+- **Risdiplam and the WHO Essential Medicines List**: A second proposal to add risdiplam to the WHO EML was reviewed by the 25th Expert Committee in 2025 but was not adopted, with the Committee citing cost and access concerns. Global access advocacy continues.
 
 There were also wider access conversations around risdiplam outside the child post-Zolgensma context. In particular, availability for adults over 18 appears to remain a problem in the Netherlands and elsewhere. This makes it important to treat risdiplam access as a broader European policy issue, not only as a question affecting one family or one subgroup.
 
@@ -208,10 +208,10 @@ There were also wider access conversations around risdiplam outside the child po
 
 A gap between Ireland and several other European countries was something I encountered repeatedly in conversations at the congress:
 
-- **France**: French neuromuscular centres appear to be prescribing dual therapy in practice. I spoke with Dr. Suzanne Quijano-Roy and Dr. Marta Gomez-Garcia de la Banda (APHP Paris), both of whom confirmed this is their practice for children showing plateau or suboptimal response after Zolgensma. *(I have not independently verified the formal regulatory/approval status — this reflects what I was told in conversation.)*
+- **France**: French neuromuscular centres appear to be prescribing dual therapy in practice. I spoke with Dr. Susana Quijano-Roy and Dr. Marta Gomez-Garcia de la Banda (APHP Paris, Hôpital Raymond-Poincaré), both of whom confirmed this is their practice for children showing plateau or suboptimal response after Zolgensma. *(I have not independently verified the formal regulatory/approval status — this reflects what I was told in conversation.)*
 - **Germany**: A Roche Medical Science Liaison I spoke with at the congress indicated dual therapy is being prescribed on a case-by-case basis.
 - **Italy** has strong SMA advocacy infrastructure — their model of comprehensive family support was presented as a benchmark for other countries.
-- **USA**: A 2023 Cure SMA community survey was cited at the congress, reporting 12.4% of US SMA patients on combination therapy in real-world practice, with 82% of families citing "wanting access to all possible treatments" as motivation. *(Verify against Cure SMA source before citing externally.)*
+- **USA**: A 2023 Cure SMA community survey was cited at the congress, reporting 12.4% of US SMA patients on combination therapy in real-world practice. Among families using sequential or combination therapy, the most commonly cited motivations were "wanting a different DMT" (around 73% of children's caregivers and 88% of adults) and "wanting access to all possible DMTs" (around 40% of children's caregivers).
 - **Ireland's HSE MAP** currently restricts risdiplam to monotherapy — excluding children who received Zolgensma unless they meet "non-success" criteria (documented decline in motor scores or respiratory function). This framework was established before much of the current evidence existed, so it would be useful for SMA Ireland to keep the review of access criteria on the agenda.
 - **Generics and international pricing** also came up informally. Risdiplam appears to be much less expensive in China, and generic routes in India were discussed as part of the wider global access landscape. These points would need careful verification before being used in formal advocacy, but they show why international monitoring matters.
 
@@ -234,7 +234,7 @@ This was useful context, but it should sit alongside the broader scientific and 
 | Roche MSL | Roche | Ireland data, Named Patient pathway |
 | Portia | SMA UK | Advocacy, UK rollout and treatment-access perspective |
 | Christian Morris | SMA Europe | European coordination, policy |
-| Suzanne Quijano-Roy | Neuromuscular specialist | Clinical expertise, French consultation |
+| Susana Quijano-Roy | Neuromuscular specialist (APHP, Hôpital Raymond-Poincaré) | Clinical expertise, French consultation |
 | Marta Gomez-Garcia de la Banda | APHP Paris | French clinical perspective |
 | Hannah McLoughlin | CHI Ireland | Irish clinical team |
 | SMA Italy representatives | Famiglie SMA | European coalition, advocacy model |
@@ -301,26 +301,28 @@ Useful takeaways for all Irish SMA families:
 - **Finger lights:** Sensory and motor play tool for younger children
 - **Equipment variety and community knowledge:** Seeing the range of equipment families brought to the event was useful in itself, and the community atmosphere made it easier to learn from what others are already doing day to day
 
-## 9. Recommendations for SMA Ireland
+## 9. What SMA Ireland Can Build On
 
-1. **Keep treatment access criteria under review, including risdiplam.** The HSE MAP criteria and post-Zolgensma access questions remain important, but they should be framed as part of a wider treatment-access discussion that also includes adults over 18 and international practice.
-2. **Continue European advocacy links.** SMA UK, SMA Europe, Italian representatives, and other organisations offered practical insight into how access, family support, and policy are being approached elsewhere.
-3. **Track generic and international pricing developments carefully.** China and India were mentioned in conversations about lower-cost or generic risdiplam routes. These points need verification, but they are relevant to long-term access strategy.
+These are not formal recommendations, but they are the areas that felt most useful for SMA Ireland to keep in view after the congress:
+
+1. **Keep treatment access criteria under review, including risdiplam.** The HSE MAP criteria and post-Zolgensma access questions remain important, but they should sit inside a wider treatment-access discussion that also includes adults over 18 and international practice.
+2. **Keep building European advocacy links.** SMA UK, SMA Europe, Italian representatives, and other organisations offered practical insight into how access, family support, and policy are being approached elsewhere.
+3. **Watch generic and international pricing developments carefully.** China and India were mentioned in conversations about lower-cost or generic risdiplam routes. These points need verification, but they are relevant to long-term access strategy.
 4. **Share practical care learning with Irish families.** Play as physiotherapy, emergency planning, cough assist routines, respiratory supports, equipment choice, and adapted sport all have immediate value.
-5. **Build on Ireland's newborn screening progress.** Ireland appears to be well placed compared with Scotland's rollout timeline, and there may be useful learning from UK implementation challenges.
+5. **Celebrate and build on Ireland's newborn screening progress. 🎉** SMA being included in newborn screening in Ireland is a huge success. It puts Ireland in a much stronger position for early diagnosis, early treatment, and better long-term planning, while still leaving room to learn from rollout challenges in Scotland and the wider UK.
 6. **Clarify SMA research language for funding and advocacy.** It may be worth exploring how SMA is described in relation to motor neuron disease so that Irish advocacy is accurate, understandable, and useful for research funding.
-7. **Consider sending a representative to future SMA Europe congresses.** The networking and informal learning alone were highly valuable.
+7. **Send representatives to future SMA Europe congresses where possible.** The networking and informal learning alone were highly valuable.
 
 ## 10. Next Steps
 
 Following the conference, I plan to:
 
-- Share a balanced summary of the scientific, advocacy, and practical-care learning with SMA Ireland
 - Follow up with European contacts made through SMA Europe, SMA UK, Italy, and the clinical community
 - Continue gathering evidence on treatment access, including risdiplam, dual therapy, adult access, and international pricing
 - Discuss our own family-specific clinical questions privately with our clinical team
 - Explore whether specialist European consultation would be useful through appropriate routes
 - Follow up with Roche for the Ireland-specific information they committed to providing
+- Follow up with Scholar Rock, including Marjorie Stewart-Hart, who reached out to learn more about access
 
 I'm happy to share any of my research, contacts, or evidence files with SMA Ireland to support advocacy efforts.
 
